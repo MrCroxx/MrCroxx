@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning distributed storage system.
 - 📫 How to reach me: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcroxx&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcroxx&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MrCroxx/MrCroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
