@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning distributed storage system.
 - 📫 How to reach me: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com)
+- ✨ Blog: [叉鸽 MrCroxx 的博客](https://blog.mrcroxx.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcroxx&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
