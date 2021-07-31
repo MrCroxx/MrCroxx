@@ -5,8 +5,7 @@
 - 📫 How to reach me: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com)
 - ✨ Blog: [叉鸽 MrCroxx 的博客](https://blog.mrcroxx.com)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Metrics](https://github.com/MrCroxx/MrCroxx/blob/main/github-metrics.svg)
 
 <!--
 **MrCroxx/MrCroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
