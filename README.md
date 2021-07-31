@@ -5,7 +5,7 @@
 - 📫 How to reach me: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com)
 - ✨ Blog: [叉鸽 MrCroxx 的博客](https://blog.mrcroxx.com)
 
-### About me
+### About me :octocat:
 
 ![Metrics](https://github.com/MrCroxx/MrCroxx/blob/main/github-metrics.svg)
 
