@@ -20,6 +20,7 @@ jobs:
           repositories_affiliations: ""
           commits_authoring: mrcroxx@outlook.com, croxx@buaa.edu.cn, croxxpwn@gmail.com, mengyao@pingcap.com, mengyao.cs@gmail.com
           plugin_achievements: yes
+          plugin_achievements_threshold: A
           plugin_habits: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, js
