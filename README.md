@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏢 Working on *cloud-native streaming database* in [Singularity Data Inc](https://www.singularity-data.com).
+- 🏢 Working on *cloud-native streaming database* at [Singularity Data Inc](https://www.singularity-data.com).
 - 🔭 Reviewer of [TiKV](https://github.com/tikv/tikv) [organization](https://github.com/tikv).
 - 🌱 Interested in *distributed storage system*, *database* and *streaming system*.
 - 📫 How to reach me: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com).
