@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+- 🏢 Working on *cloud-native streaming database* in [Singularity Data Inc](https://www.singularity-data.com).
 - 🔭 Reviewer of [TiKV](https://github.com/tikv/tikv) [organization](https://github.com/tikv).
-- 🌱 I’m currently learning distributed storage system.
-- 📫 How to reach me: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com)
-- ✨ Blog: [叉鸽 MrCroxx 的博客](https://mrcroxx.github.io)
+- 🌱 Interested in *distributed storage system*, *database* and *streaming system*.
+- 📫 How to reach me: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com).
+- ✨ Blog: [叉鸽 MrCroxx 的博客](https://mrcroxx.github.io)(Chinese).
 
 ### About me :octocat:
 
@@ -13,6 +14,7 @@
 **MrCroxx/MrCroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![image](https://user-images.githubusercontent.com/22407295/147403244-2426c0f1-87fb-442e-bed4-50bb5eb554fa.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
