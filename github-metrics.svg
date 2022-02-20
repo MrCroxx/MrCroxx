@@ -18,7 +18,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1070 Commits
+                            1071 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -282,15 +282,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 63 edited files from 53 commits over last 12 days</small>
+                <small>estimation from 64 edited files from 54 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.9855072463768" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="228.9855072463768" y="0" width="188.44202898550725" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="417.42753623188406" y="0" width="42.572463768115945" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.92471213463241" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="214.92471213463241" y="0" width="183.82344257454974" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="398.7481547091822" y="0" width="42.03424859757898" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="440.7824033067612" y="0" width="19.217596693238857" height="8" fill="#1797c0"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -302,8 +303,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>6.32 kB</div>
-                                <div>49.78%</div>
+                                <div>6.33 kB</div>
+                                <div>46.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -314,8 +315,8 @@
                                 TeX
                             </div>
                             <small>
-                                <div>1.18 kB</div>
-                                <div>9.25%</div>
+                                <div>1.24 kB</div>
+                                <div>9.14%</div>
                             </small>
                         </div>
                     </section>
@@ -328,8 +329,20 @@
                                 Rust
                             </div>
                             <small>
-                                <div>5.20 kB</div>
-                                <div>40.97%</div>
+                                <div>5.41 kB</div>
+                                <div>39.96%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#1797c0" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Apex
+                            </div>
+                            <small>
+                                <div>566 bytes</div>
+                                <div>4.18%</div>
                             </small>
                         </div>
                     </section>
