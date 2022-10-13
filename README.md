@@ -3,7 +3,8 @@
 - 🔭 Contributer of [RisingWave](https://github.com/risingwavelabs/risingwave).
 - 🔭 Reviewer of [TiKV](https://github.com/tikv/tikv) [organization](https://github.com/tikv).
 - 🌱 Interested in *distributed storage system*, *database* and *streaming system*.
-- 📫 How to reach me: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com).
+- 📫 Email: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com).
+- 🪺 Twitter: [@CroxxMr](https://twitter.com/CroxxMr).
 - ✨ Blog: [叉鸽 MrCroxx 的博客](https://mrcroxx.github.io)(Chinese).
 
 ### About me :octocat:
