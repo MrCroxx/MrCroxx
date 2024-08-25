@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Contributer of [RisingWave](https://github.com/risingwavelabs/risingwave).
+- 🔭 Contributor of [RisingWave](https://github.com/risingwavelabs/risingwave).
 - 🔭 Reviewer of [TiKV](https://github.com/tikv/tikv) [organization](https://github.com/tikv).
 - 🌱 Interested in *distributed storage system*, *database* and *streaming system*.
 - 📫 Email: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com).
