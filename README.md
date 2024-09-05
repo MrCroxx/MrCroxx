@@ -9,6 +9,12 @@
 
 ### About me :octocat:
 
+I'am a ~Rustcean~.
+
+I am a ~Rustocean~.
+
+I write Rust.
+
 ![Metrics](https://github.com/MrCroxx/MrCroxx/blob/main/github-metrics.svg)
 
 <!--
