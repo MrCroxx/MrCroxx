@@ -9,7 +9,7 @@
 
 ### About me :octocat:
 
-I'am a ~Rustcean~.
+I'm a ~Rustcean~.
 
 I am a ~Rustocean~.
 
