@@ -15,6 +15,10 @@ I am a ~Rustocean~.
 
 I write Rust.
 
+![ferris](https://www.rust-lang.org/static/images/ferris.gif)
+
+### Metrics 📈
+
 ![Metrics](https://github.com/MrCroxx/MrCroxx/blob/main/github-metrics.svg)
 
 <!--
