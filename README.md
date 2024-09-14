@@ -15,7 +15,7 @@ I am a ~Rustocean~.
 
 I write Rust.
 
-![ferris](https://www.rust-lang.org/static/images/ferris.gif)
+<img src="https://www.rust-lang.org/static/images/ferris.gif" style="height: 100px" />
 
 ### Metrics 📈
 
