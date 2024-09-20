@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🚀 Author of [foyer](https://github.com/foyer-rs/foyer).
 - 🔭 Contributor of [RisingWave](https://github.com/risingwavelabs/risingwave).
 - 🔭 Reviewer of [TiKV](https://github.com/tikv/tikv) [organization](https://github.com/tikv).
 - 🌱 Interested in *distributed storage system*, *database* and *streaming system*.
