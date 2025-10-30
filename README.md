@@ -6,7 +6,8 @@
 - 🌱 Interested in *distributed storage system*, *database* and *streaming system*.
 - 📫 Email: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com).
 - 🪺 Twitter: [@CroxxMr](https://twitter.com/CroxxMr).
-- ✨ Blog: [叉鸽 MrCroxx 的博客](https://blog.mrcroxx.com)(Chinese).
+- ✨ Blog: [MrCroxx's Blog](https://blog.mrcroxx.com).
+- ✨ Blog (Legacy, Chinese): [叉鸽 MrCroxx 的博客](https://blogx.mrcroxx.com)(Chinese).
 
 ### About me :octocat:
 
