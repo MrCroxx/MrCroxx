@@ -23,6 +23,8 @@ I write Rust.
 
 ![Metrics](https://github.com/MrCroxx/MrCroxx/blob/main/github-metrics.svg)
 
+![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **MrCroxx/MrCroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
