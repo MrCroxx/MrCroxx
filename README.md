@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-- 🚀 Author of [foyer](https://github.com/foyer-rs/foyer).
-- 🔭 Contributor of [RisingWave](https://github.com/risingwavelabs/risingwave).
+- 🚀 Author of [Foyer](https://github.com/foyer-rs/foyer).
+- 🛠️ Contributor of [RisingWave](https://github.com/risingwavelabs/risingwave).
 - 🔭 Reviewer of [TiKV](https://github.com/tikv/tikv) [organization](https://github.com/tikv).
-- 🌱 Interested in *distributed storage system*, *database* and *streaming system*.
-- 📫 Email: [mrcroxx@outlook.com](mailto:mrcroxx@outlook.com).
+- 🔨 Build some interesting but useful smol tools [Verso](https://github.com/mrcroxx/verso), [Digger](https://github.com/mrcroxx/digger), [Olanzi](https://github.com/mrcroxx/olanzi), and more.
+- 🌱 Interested in data infra system design and optimization.
+- 📫 Email: [mrcroxx.cs@gmail.com](mailto:mrcroxx.cs@gmail.com).
 - 🪺 Twitter: [@CroxxMr](https://twitter.com/CroxxMr).
+- 🎞️ Douban: [叉鸽](https://www.douban.com/people/mrcroxx).
 - ✨ Blog: [MrCroxx's Blog](https://blog.mrcroxx.com).
-- ✨ Blog (Legacy, Chinese): [叉鸽 MrCroxx 的博客](https://blogx.mrcroxx.com)(Chinese).
+- 📁 Blog (Legacy, Chinese): [叉鸽 MrCroxx 的博客](https://blogx.mrcroxx.com)(Chinese).
 
 ### About me :octocat:
 
